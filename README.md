@@ -1,3 +1,7 @@
+Full Calendar using MomentJS
+
+Only Functional programming
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
